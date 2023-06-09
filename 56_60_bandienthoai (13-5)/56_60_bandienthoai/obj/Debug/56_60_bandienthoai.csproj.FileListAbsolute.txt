@@ -1,0 +1,16 @@
+D:\BAI TAP\C#\56_60_bandienthoai\bin\Debug\56_60_bandienthoai.exe.config
+D:\BAI TAP\C#\56_60_bandienthoai\bin\Debug\56_60_bandienthoai.exe
+D:\BAI TAP\C#\56_60_bandienthoai\bin\Debug\56_60_bandienthoai.pdb
+D:\BAI TAP\C#\56_60_bandienthoai\obj\Debug\56_60_bandienthoai.csproj.AssemblyReference.cache
+D:\BAI TAP\C#\56_60_bandienthoai\obj\Debug\56_60_bandienthoai.csproj.SuggestedBindingRedirects.cache
+D:\BAI TAP\C#\56_60_bandienthoai\obj\Debug\_56_60_bandienthoai.Form2.resources
+D:\BAI TAP\C#\56_60_bandienthoai\obj\Debug\_56_60_bandienthoai.frmCTHOADONNHAP.resources
+D:\BAI TAP\C#\56_60_bandienthoai\obj\Debug\_56_60_bandienthoai.frmHOADONNHAP.resources
+D:\BAI TAP\C#\56_60_bandienthoai\obj\Debug\_56_60_bandienthoai.frmMAU.resources
+D:\BAI TAP\C#\56_60_bandienthoai\obj\Debug\_56_60_bandienthoai.Properties.Resources.resources
+D:\BAI TAP\C#\56_60_bandienthoai\obj\Debug\56_60_bandienthoai.csproj.GenerateResource.cache
+D:\BAI TAP\C#\56_60_bandienthoai\obj\Debug\56_60_bandienthoai.csproj.CoreCompileInputs.cache
+D:\BAI TAP\C#\56_60_bandienthoai\obj\Debug\56_60_bandienthoai.exe
+D:\BAI TAP\C#\56_60_bandienthoai\obj\Debug\56_60_bandienthoai.pdb
+D:\BAI TAP\C#\56_60_bandienthoai\obj\Debug\_56_60_bandienthoai.frmHOADONBAN.resources
+D:\BAI TAP\C#\56_60_bandienthoai\obj\Debug\_56_60_bandienthoai.frmNHANVIEN.resources

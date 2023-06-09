@@ -1,0 +1,12 @@
+D:\PhamBinh\HK4\C#\HoDangHuy\56_60_bandienthoai (Mới 5-7)\56_60_bandienthoai\MDI_FORM\obj\Debug\MDI_FORM.csproj.AssemblyReference.cache
+D:\PhamBinh\HK4\C#\HoDangHuy\56_60_bandienthoai (Mới 5-7)\56_60_bandienthoai\MDI_FORM\obj\Debug\MDI_FORM.csproj.SuggestedBindingRedirects.cache
+D:\PhamBinh\HK4\C#\HoDangHuy\56_60_bandienthoai (Mới 5-7)\56_60_bandienthoai\MDI_FORM\obj\Debug\MDI_FORM.MDIParent1.resources
+D:\PhamBinh\HK4\C#\HoDangHuy\56_60_bandienthoai (Mới 5-7)\56_60_bandienthoai\MDI_FORM\obj\Debug\MDI_FORM.Properties.Resources.resources
+D:\PhamBinh\HK4\C#\HoDangHuy\56_60_bandienthoai (Mới 5-7)\56_60_bandienthoai\MDI_FORM\obj\Debug\MDI_FORM.csproj.GenerateResource.cache
+D:\PhamBinh\HK4\C#\HoDangHuy\56_60_bandienthoai (Mới 5-7)\56_60_bandienthoai\MDI_FORM\obj\Debug\MDI_FORM.csproj.CoreCompileInputs.cache
+D:\PhamBinh\HK4\C#\HoDangHuy\56_60_bandienthoai (Mới 5-7)\56_60_bandienthoai\MDI_FORM\bin\Debug\MDI_FORM.exe.config
+D:\PhamBinh\HK4\C#\HoDangHuy\56_60_bandienthoai (Mới 5-7)\56_60_bandienthoai\MDI_FORM\bin\Debug\MDI_FORM.exe
+D:\PhamBinh\HK4\C#\HoDangHuy\56_60_bandienthoai (Mới 5-7)\56_60_bandienthoai\MDI_FORM\bin\Debug\MDI_FORM.pdb
+D:\PhamBinh\HK4\C#\HoDangHuy\56_60_bandienthoai (Mới 5-7)\56_60_bandienthoai\MDI_FORM\obj\Debug\MDI_FORM.exe
+D:\PhamBinh\HK4\C#\HoDangHuy\56_60_bandienthoai (Mới 5-7)\56_60_bandienthoai\MDI_FORM\obj\Debug\MDI_FORM.pdb
+D:\PhamBinh\HK4\C#\HoDangHuy\56_60_bandienthoai (Mới 5-7)\56_60_bandienthoai\MDI_FORM\obj\Debug\MDI_FORM.Form1.resources

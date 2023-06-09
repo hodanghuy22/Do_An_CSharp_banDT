@@ -1,0 +1,238 @@
+D:\New folder\56_60_bandienthoai\56_60_bandienthoai\bin\Debug\56_60_bandienthoai.exe.config
+D:\New folder\56_60_bandienthoai\56_60_bandienthoai\bin\Debug\56_60_bandienthoai.exe
+D:\New folder\56_60_bandienthoai\56_60_bandienthoai\bin\Debug\56_60_bandienthoai.pdb
+D:\New folder\56_60_bandienthoai\56_60_bandienthoai\obj\Debug\56_60_bandienthoai.csproj.AssemblyReference.cache
+D:\New folder\56_60_bandienthoai\56_60_bandienthoai\obj\Debug\56_60_bandienthoai.csproj.SuggestedBindingRedirects.cache
+D:\New folder\56_60_bandienthoai\56_60_bandienthoai\obj\Debug\_56_60_bandienthoai.frmLoaiSP.resources
+D:\New folder\56_60_bandienthoai\56_60_bandienthoai\obj\Debug\_56_60_bandienthoai.Properties.Resources.resources
+D:\New folder\56_60_bandienthoai\56_60_bandienthoai\obj\Debug\56_60_bandienthoai.csproj.GenerateResource.cache
+D:\New folder\56_60_bandienthoai\56_60_bandienthoai\obj\Debug\56_60_bandienthoai.csproj.CoreCompileInputs.cache
+D:\New folder\56_60_bandienthoai\56_60_bandienthoai\obj\Debug\56_60_bandienthoai.exe
+D:\New folder\56_60_bandienthoai\56_60_bandienthoai\obj\Debug\56_60_bandienthoai.pdb
+D:\New folder\56_60_bandienthoai\56_60_bandienthoai\obj\Debug\_56_60_bandienthoai.frmKhachHang.resources
+D:\New folder\56_60_bandienthoai\56_60_bandienthoai\obj\Debug\_56_60_bandienthoai.frmNhaCungCap.resources
+D:\New folder\56_60_bandienthoai\56_60_bandienthoai\obj\Debug\_56_60_bandienthoai.frmSanPham.resources
+D:\PhamBinh\HK4\C#\56_60_bandienthoai\56_60_bandienthoai\bin\Debug\56_60_bandienthoai.exe.config
+D:\PhamBinh\HK4\C#\56_60_bandienthoai\56_60_bandienthoai\bin\Debug\56_60_bandienthoai.exe
+D:\PhamBinh\HK4\C#\56_60_bandienthoai\56_60_bandienthoai\bin\Debug\56_60_bandienthoai.pdb
+D:\PhamBinh\HK4\C#\56_60_bandienthoai\56_60_bandienthoai\obj\Debug\56_60_bandienthoai.csproj.AssemblyReference.cache
+D:\PhamBinh\HK4\C#\56_60_bandienthoai\56_60_bandienthoai\obj\Debug\56_60_bandienthoai.csproj.SuggestedBindingRedirects.cache
+D:\PhamBinh\HK4\C#\56_60_bandienthoai\56_60_bandienthoai\obj\Debug\_56_60_bandienthoai.frmLoaiSP.resources
+D:\PhamBinh\HK4\C#\56_60_bandienthoai\56_60_bandienthoai\obj\Debug\_56_60_bandienthoai.Form2.resources
+D:\PhamBinh\HK4\C#\56_60_bandienthoai\56_60_bandienthoai\obj\Debug\_56_60_bandienthoai.frmCTHOADONNHAP.resources
+D:\PhamBinh\HK4\C#\56_60_bandienthoai\56_60_bandienthoai\obj\Debug\_56_60_bandienthoai.frmHOADONBAN.resources
+D:\PhamBinh\HK4\C#\56_60_bandienthoai\56_60_bandienthoai\obj\Debug\_56_60_bandienthoai.frmHOADONNHAP.resources
+D:\PhamBinh\HK4\C#\56_60_bandienthoai\56_60_bandienthoai\obj\Debug\_56_60_bandienthoai.frmKhachHang.resources
+D:\PhamBinh\HK4\C#\56_60_bandienthoai\56_60_bandienthoai\obj\Debug\_56_60_bandienthoai.frmMAU.resources
+D:\PhamBinh\HK4\C#\56_60_bandienthoai\56_60_bandienthoai\obj\Debug\_56_60_bandienthoai.frmNhaCungCap.resources
+D:\PhamBinh\HK4\C#\56_60_bandienthoai\56_60_bandienthoai\obj\Debug\_56_60_bandienthoai.frmNHANVIEN.resources
+D:\PhamBinh\HK4\C#\56_60_bandienthoai\56_60_bandienthoai\obj\Debug\_56_60_bandienthoai.frmSanPham.resources
+D:\PhamBinh\HK4\C#\56_60_bandienthoai\56_60_bandienthoai\obj\Debug\_56_60_bandienthoai.Properties.Resources.resources
+D:\PhamBinh\HK4\C#\56_60_bandienthoai\56_60_bandienthoai\obj\Debug\56_60_bandienthoai.csproj.GenerateResource.cache
+D:\PhamBinh\HK4\C#\56_60_bandienthoai\56_60_bandienthoai\obj\Debug\56_60_bandienthoai.csproj.CoreCompileInputs.cache
+D:\PhamBinh\HK4\C#\56_60_bandienthoai\56_60_bandienthoai\obj\Debug\56_60_bandienthoai.exe
+D:\PhamBinh\HK4\C#\56_60_bandienthoai\56_60_bandienthoai\obj\Debug\56_60_bandienthoai.pdb
+D:\PhamBinh\HK4\C#\56_60_bandienthoai\56_60_bandienthoai\obj\Debug\_56_60_bandienthoai.frmMenu.resources
+D:\BAI TAP\C#\56_60_bandienthoai\56_60_bandienthoai\bin\Debug\56_60_bandienthoai.exe.config
+D:\BAI TAP\C#\56_60_bandienthoai\56_60_bandienthoai\bin\Debug\56_60_bandienthoai.exe
+D:\BAI TAP\C#\56_60_bandienthoai\56_60_bandienthoai\bin\Debug\56_60_bandienthoai.pdb
+D:\BAI TAP\C#\56_60_bandienthoai\56_60_bandienthoai\obj\Debug\56_60_bandienthoai.csproj.AssemblyReference.cache
+D:\BAI TAP\C#\56_60_bandienthoai\56_60_bandienthoai\obj\Debug\56_60_bandienthoai.csproj.SuggestedBindingRedirects.cache
+D:\BAI TAP\C#\56_60_bandienthoai\56_60_bandienthoai\obj\Debug\_56_60_bandienthoai.frmMAU.resources
+D:\BAI TAP\C#\56_60_bandienthoai\56_60_bandienthoai\obj\Debug\_56_60_bandienthoai.Properties.Resources.resources
+D:\BAI TAP\C#\56_60_bandienthoai\56_60_bandienthoai\obj\Debug\56_60_bandienthoai.csproj.GenerateResource.cache
+D:\BAI TAP\C#\56_60_bandienthoai\56_60_bandienthoai\obj\Debug\56_60_bandienthoai.csproj.CoreCompileInputs.cache
+D:\BAI TAP\C#\56_60_bandienthoai\56_60_bandienthoai\obj\Debug\56_60_bandienthoai.exe
+D:\BAI TAP\C#\56_60_bandienthoai\56_60_bandienthoai\obj\Debug\56_60_bandienthoai.pdb
+D:\BAI TAP\C#\56_60_bandienthoai\56_60_bandienthoai\obj\Debug\_56_60_bandienthoai.frmNHACUNGCAP.resources
+D:\BAI TAP\C#\56_60_bandienthoai\56_60_bandienthoai\obj\Debug\_56_60_bandienthoai.frmHINH.resources
+D:\BAI TAP\C#\56_60_bandienthoai\56_60_bandienthoai\obj\Debug\_56_60_bandienthoai.frmTimKiemNCC.resources
+D:\BAI TAP\C#\56_60_bandienthoai\56_60_bandienthoai\obj\Debug\_56_60_bandienthoai.frmHOADONBAN.resources
+D:\BAI TAP\C#\56_60_bandienthoai\56_60_bandienthoai\obj\Debug\_56_60_bandienthoai.frmSANPHAM.resources
+D:\BAI TAP\C#\56_60_bandienthoai\56_60_bandienthoai\obj\Debug\_56_60_bandienthoai.frmLoaiSP.resources
+D:\BAI TAP\C#\56_60_bandienthoai\56_60_bandienthoai\obj\Debug\_56_60_bandienthoai.frmKHACHHANG.resources
+D:\BAI TAP\C#\56_60_bandienthoai\56_60_bandienthoai\obj\Debug\_56_60_bandienthoai.frmTimKiemSP.resources
+D:\BAI TAP\C#\56_60_bandienthoai\56_60_bandienthoai\obj\Debug\_56_60_bandienthoai.frmTimKiemKhachHang.resources
+D:\BAI TAP\C#\56_60_bandienthoai\56_60_bandienthoai\obj\Debug\_56_60_bandienthoai.frmTimKiemNhanVien.resources
+D:\BAI TAP\C#\56_60_bandienthoai\56_60_bandienthoai\obj\Debug\_56_60_bandienthoai.frmTimHDBan.resources
+D:\BAI TAP\C#\56_60_bandienthoai\56_60_bandienthoai\obj\Debug\_56_60_bandienthoai.frmTimKiemHDNhap.resources
+D:\BAI TAP\C#\56_60_bandienthoai\56_60_bandienthoai\obj\Debug\_56_60_bandienthoai.frmThongKeSP.resources
+D:\BAI TAP\C#\56_60_bandienthoai\56_60_bandienthoai\obj\Debug\_56_60_bandienthoai.frmThongKeNCC.resources
+D:\BAI TAP\C#\56_60_bandienthoai\56_60_bandienthoai\obj\Debug\_56_60_bandienthoai.frmLuaChonHDHoacCTHD.resources
+D:\BAI TAP\C#\56_60_bandienthoai\56_60_bandienthoai\obj\Debug\_56_60_bandienthoai.frmHOADONNHAP.resources
+D:\PhamBinh\HK4\C#\HoDangHuy\56_60_bandienthoai\56_60_bandienthoai\56_60_bandienthoai\bin\Debug\56_60_bandienthoai.exe.config
+D:\PhamBinh\HK4\C#\HoDangHuy\56_60_bandienthoai\56_60_bandienthoai\56_60_bandienthoai\bin\Debug\56_60_bandienthoai.exe
+D:\PhamBinh\HK4\C#\HoDangHuy\56_60_bandienthoai\56_60_bandienthoai\56_60_bandienthoai\bin\Debug\56_60_bandienthoai.pdb
+D:\PhamBinh\HK4\C#\HoDangHuy\56_60_bandienthoai\56_60_bandienthoai\56_60_bandienthoai\obj\Debug\56_60_bandienthoai.csproj.AssemblyReference.cache
+D:\PhamBinh\HK4\C#\HoDangHuy\56_60_bandienthoai\56_60_bandienthoai\56_60_bandienthoai\obj\Debug\56_60_bandienthoai.csproj.SuggestedBindingRedirects.cache
+D:\PhamBinh\HK4\C#\HoDangHuy\56_60_bandienthoai\56_60_bandienthoai\56_60_bandienthoai\obj\Debug\_56_60_bandienthoai.frmHOADONBAN.resources
+D:\PhamBinh\HK4\C#\HoDangHuy\56_60_bandienthoai\56_60_bandienthoai\56_60_bandienthoai\obj\Debug\_56_60_bandienthoai.frmHOADONNHAP.resources
+D:\PhamBinh\HK4\C#\HoDangHuy\56_60_bandienthoai\56_60_bandienthoai\56_60_bandienthoai\obj\Debug\_56_60_bandienthoai.frmKHACHHANG.resources
+D:\PhamBinh\HK4\C#\HoDangHuy\56_60_bandienthoai\56_60_bandienthoai\56_60_bandienthoai\obj\Debug\_56_60_bandienthoai.frmLOAISP.resources
+D:\PhamBinh\HK4\C#\HoDangHuy\56_60_bandienthoai\56_60_bandienthoai\56_60_bandienthoai\obj\Debug\_56_60_bandienthoai.frmLuaChonHDHoacCTHD.resources
+D:\PhamBinh\HK4\C#\HoDangHuy\56_60_bandienthoai\56_60_bandienthoai\56_60_bandienthoai\obj\Debug\_56_60_bandienthoai.frmSANPHAM.resources
+D:\PhamBinh\HK4\C#\HoDangHuy\56_60_bandienthoai\56_60_bandienthoai\56_60_bandienthoai\obj\Debug\_56_60_bandienthoai.frmHINH.resources
+D:\PhamBinh\HK4\C#\HoDangHuy\56_60_bandienthoai\56_60_bandienthoai\56_60_bandienthoai\obj\Debug\_56_60_bandienthoai.frmMAU.resources
+D:\PhamBinh\HK4\C#\HoDangHuy\56_60_bandienthoai\56_60_bandienthoai\56_60_bandienthoai\obj\Debug\_56_60_bandienthoai.frmNHACUNGCAP.resources
+D:\PhamBinh\HK4\C#\HoDangHuy\56_60_bandienthoai\56_60_bandienthoai\56_60_bandienthoai\obj\Debug\_56_60_bandienthoai.frmThongKeNCC.resources
+D:\PhamBinh\HK4\C#\HoDangHuy\56_60_bandienthoai\56_60_bandienthoai\56_60_bandienthoai\obj\Debug\_56_60_bandienthoai.frmThongKeSP.resources
+D:\PhamBinh\HK4\C#\HoDangHuy\56_60_bandienthoai\56_60_bandienthoai\56_60_bandienthoai\obj\Debug\_56_60_bandienthoai.frmTimHDBan.resources
+D:\PhamBinh\HK4\C#\HoDangHuy\56_60_bandienthoai\56_60_bandienthoai\56_60_bandienthoai\obj\Debug\_56_60_bandienthoai.frmTimKiemHDNhap.resources
+D:\PhamBinh\HK4\C#\HoDangHuy\56_60_bandienthoai\56_60_bandienthoai\56_60_bandienthoai\obj\Debug\_56_60_bandienthoai.frmTimKiemKhachHang.resources
+D:\PhamBinh\HK4\C#\HoDangHuy\56_60_bandienthoai\56_60_bandienthoai\56_60_bandienthoai\obj\Debug\_56_60_bandienthoai.frmTimKiemNCC.resources
+D:\PhamBinh\HK4\C#\HoDangHuy\56_60_bandienthoai\56_60_bandienthoai\56_60_bandienthoai\obj\Debug\_56_60_bandienthoai.frmTimKiemNhanVien.resources
+D:\PhamBinh\HK4\C#\HoDangHuy\56_60_bandienthoai\56_60_bandienthoai\56_60_bandienthoai\obj\Debug\_56_60_bandienthoai.frmTimKiemSP.resources
+D:\PhamBinh\HK4\C#\HoDangHuy\56_60_bandienthoai\56_60_bandienthoai\56_60_bandienthoai\obj\Debug\_56_60_bandienthoai.Properties.Resources.resources
+D:\PhamBinh\HK4\C#\HoDangHuy\56_60_bandienthoai\56_60_bandienthoai\56_60_bandienthoai\obj\Debug\56_60_bandienthoai.csproj.GenerateResource.cache
+D:\PhamBinh\HK4\C#\HoDangHuy\56_60_bandienthoai\56_60_bandienthoai\56_60_bandienthoai\obj\Debug\56_60_bandienthoai.csproj.CoreCompileInputs.cache
+D:\PhamBinh\HK4\C#\HoDangHuy\56_60_bandienthoai\56_60_bandienthoai\56_60_bandienthoai\obj\Debug\56_60_bandienthoai.exe
+D:\PhamBinh\HK4\C#\HoDangHuy\56_60_bandienthoai\56_60_bandienthoai\56_60_bandienthoai\obj\Debug\56_60_bandienthoai.pdb
+D:\PhamBinh\HK4\C#\HoDangHuy\56_60_bandienthoai\56_60_bandienthoai\56_60_bandienthoai\obj\Debug\_56_60_bandienthoai.frmMenu.resources
+D:\PhamBinh\HK4\C#\HoDangHuy\56_60_bandienthoai\56_60_bandienthoai\56_60_bandienthoai\obj\Debug\_56_60_bandienthoai.frmNHANVIEN.resources
+D:\PhamBinh\HK4\C#\HoDangHuy\56_60_bandienthoai_tối_28_4\56_60_bandienthoai\56_60_bandienthoai\56_60_bandienthoai\bin\Debug\56_60_bandienthoai.exe.config
+D:\PhamBinh\HK4\C#\HoDangHuy\56_60_bandienthoai_tối_28_4\56_60_bandienthoai\56_60_bandienthoai\56_60_bandienthoai\bin\Debug\56_60_bandienthoai.exe
+D:\PhamBinh\HK4\C#\HoDangHuy\56_60_bandienthoai_tối_28_4\56_60_bandienthoai\56_60_bandienthoai\56_60_bandienthoai\bin\Debug\56_60_bandienthoai.pdb
+D:\PhamBinh\HK4\C#\HoDangHuy\56_60_bandienthoai_tối_28_4\56_60_bandienthoai\56_60_bandienthoai\56_60_bandienthoai\obj\Debug\56_60_bandienthoai.csproj.AssemblyReference.cache
+D:\PhamBinh\HK4\C#\HoDangHuy\56_60_bandienthoai_tối_28_4\56_60_bandienthoai\56_60_bandienthoai\56_60_bandienthoai\obj\Debug\56_60_bandienthoai.csproj.SuggestedBindingRedirects.cache
+D:\PhamBinh\HK4\C#\HoDangHuy\56_60_bandienthoai_tối_28_4\56_60_bandienthoai\56_60_bandienthoai\56_60_bandienthoai\obj\Debug\_56_60_bandienthoai.frmHOADONBAN.resources
+D:\PhamBinh\HK4\C#\HoDangHuy\56_60_bandienthoai_tối_28_4\56_60_bandienthoai\56_60_bandienthoai\56_60_bandienthoai\obj\Debug\_56_60_bandienthoai.frmHOADONNHAP.resources
+D:\PhamBinh\HK4\C#\HoDangHuy\56_60_bandienthoai_tối_28_4\56_60_bandienthoai\56_60_bandienthoai\56_60_bandienthoai\obj\Debug\_56_60_bandienthoai.frmKHACHHANG.resources
+D:\PhamBinh\HK4\C#\HoDangHuy\56_60_bandienthoai_tối_28_4\56_60_bandienthoai\56_60_bandienthoai\56_60_bandienthoai\obj\Debug\_56_60_bandienthoai.frmLOAISP.resources
+D:\PhamBinh\HK4\C#\HoDangHuy\56_60_bandienthoai_tối_28_4\56_60_bandienthoai\56_60_bandienthoai\56_60_bandienthoai\obj\Debug\_56_60_bandienthoai.frmLuaChonHDHoacCTHD.resources
+D:\PhamBinh\HK4\C#\HoDangHuy\56_60_bandienthoai_tối_28_4\56_60_bandienthoai\56_60_bandienthoai\56_60_bandienthoai\obj\Debug\_56_60_bandienthoai.frmMenu.resources
+D:\PhamBinh\HK4\C#\HoDangHuy\56_60_bandienthoai_tối_28_4\56_60_bandienthoai\56_60_bandienthoai\56_60_bandienthoai\obj\Debug\_56_60_bandienthoai.frmNHANVIEN.resources
+D:\PhamBinh\HK4\C#\HoDangHuy\56_60_bandienthoai_tối_28_4\56_60_bandienthoai\56_60_bandienthoai\56_60_bandienthoai\obj\Debug\_56_60_bandienthoai.frmHINH.resources
+D:\PhamBinh\HK4\C#\HoDangHuy\56_60_bandienthoai_tối_28_4\56_60_bandienthoai\56_60_bandienthoai\56_60_bandienthoai\obj\Debug\_56_60_bandienthoai.frmMAU.resources
+D:\PhamBinh\HK4\C#\HoDangHuy\56_60_bandienthoai_tối_28_4\56_60_bandienthoai\56_60_bandienthoai\56_60_bandienthoai\obj\Debug\_56_60_bandienthoai.frmNHACUNGCAP.resources
+D:\PhamBinh\HK4\C#\HoDangHuy\56_60_bandienthoai_tối_28_4\56_60_bandienthoai\56_60_bandienthoai\56_60_bandienthoai\obj\Debug\_56_60_bandienthoai.frmSANPHAM.resources
+D:\PhamBinh\HK4\C#\HoDangHuy\56_60_bandienthoai_tối_28_4\56_60_bandienthoai\56_60_bandienthoai\56_60_bandienthoai\obj\Debug\_56_60_bandienthoai.frmThongKeNCC.resources
+D:\PhamBinh\HK4\C#\HoDangHuy\56_60_bandienthoai_tối_28_4\56_60_bandienthoai\56_60_bandienthoai\56_60_bandienthoai\obj\Debug\_56_60_bandienthoai.frmThongKeSP.resources
+D:\PhamBinh\HK4\C#\HoDangHuy\56_60_bandienthoai_tối_28_4\56_60_bandienthoai\56_60_bandienthoai\56_60_bandienthoai\obj\Debug\_56_60_bandienthoai.frmTimHDBan.resources
+D:\PhamBinh\HK4\C#\HoDangHuy\56_60_bandienthoai_tối_28_4\56_60_bandienthoai\56_60_bandienthoai\56_60_bandienthoai\obj\Debug\_56_60_bandienthoai.frmTimKiemHDNhap.resources
+D:\PhamBinh\HK4\C#\HoDangHuy\56_60_bandienthoai_tối_28_4\56_60_bandienthoai\56_60_bandienthoai\56_60_bandienthoai\obj\Debug\_56_60_bandienthoai.frmTimKiemKhachHang.resources
+D:\PhamBinh\HK4\C#\HoDangHuy\56_60_bandienthoai_tối_28_4\56_60_bandienthoai\56_60_bandienthoai\56_60_bandienthoai\obj\Debug\_56_60_bandienthoai.frmTimKiemNCC.resources
+D:\PhamBinh\HK4\C#\HoDangHuy\56_60_bandienthoai_tối_28_4\56_60_bandienthoai\56_60_bandienthoai\56_60_bandienthoai\obj\Debug\_56_60_bandienthoai.frmTimKiemNhanVien.resources
+D:\PhamBinh\HK4\C#\HoDangHuy\56_60_bandienthoai_tối_28_4\56_60_bandienthoai\56_60_bandienthoai\56_60_bandienthoai\obj\Debug\_56_60_bandienthoai.frmTimKiemSP.resources
+D:\PhamBinh\HK4\C#\HoDangHuy\56_60_bandienthoai_tối_28_4\56_60_bandienthoai\56_60_bandienthoai\56_60_bandienthoai\obj\Debug\_56_60_bandienthoai.Properties.Resources.resources
+D:\PhamBinh\HK4\C#\HoDangHuy\56_60_bandienthoai_tối_28_4\56_60_bandienthoai\56_60_bandienthoai\56_60_bandienthoai\obj\Debug\56_60_bandienthoai.csproj.GenerateResource.cache
+D:\PhamBinh\HK4\C#\HoDangHuy\56_60_bandienthoai_tối_28_4\56_60_bandienthoai\56_60_bandienthoai\56_60_bandienthoai\obj\Debug\56_60_bandienthoai.csproj.CoreCompileInputs.cache
+D:\PhamBinh\HK4\C#\HoDangHuy\56_60_bandienthoai_tối_28_4\56_60_bandienthoai\56_60_bandienthoai\56_60_bandienthoai\obj\Debug\56_60_bandienthoai.exe
+D:\PhamBinh\HK4\C#\HoDangHuy\56_60_bandienthoai_tối_28_4\56_60_bandienthoai\56_60_bandienthoai\56_60_bandienthoai\obj\Debug\56_60_bandienthoai.pdb
+D:\BAI TAP\FILE TEST\56_60_bandienthoai\56_60_bandienthoai\bin\Debug\56_60_bandienthoai.exe.config
+D:\BAI TAP\FILE TEST\56_60_bandienthoai\56_60_bandienthoai\bin\Debug\56_60_bandienthoai.exe
+D:\BAI TAP\FILE TEST\56_60_bandienthoai\56_60_bandienthoai\bin\Debug\56_60_bandienthoai.pdb
+D:\BAI TAP\FILE TEST\56_60_bandienthoai\56_60_bandienthoai\obj\Debug\56_60_bandienthoai.csproj.AssemblyReference.cache
+D:\BAI TAP\FILE TEST\56_60_bandienthoai\56_60_bandienthoai\obj\Debug\56_60_bandienthoai.csproj.SuggestedBindingRedirects.cache
+D:\BAI TAP\FILE TEST\56_60_bandienthoai\56_60_bandienthoai\obj\Debug\_56_60_bandienthoai.frmHOADONBAN.resources
+D:\BAI TAP\FILE TEST\56_60_bandienthoai\56_60_bandienthoai\obj\Debug\_56_60_bandienthoai.frmHOADONNHAP.resources
+D:\BAI TAP\FILE TEST\56_60_bandienthoai\56_60_bandienthoai\obj\Debug\_56_60_bandienthoai.frmKHACHHANG.resources
+D:\BAI TAP\FILE TEST\56_60_bandienthoai\56_60_bandienthoai\obj\Debug\_56_60_bandienthoai.frmLOAISP.resources
+D:\BAI TAP\FILE TEST\56_60_bandienthoai\56_60_bandienthoai\obj\Debug\_56_60_bandienthoai.frmLuaChonHDHoacCTHD.resources
+D:\BAI TAP\FILE TEST\56_60_bandienthoai\56_60_bandienthoai\obj\Debug\_56_60_bandienthoai.frmMenu.resources
+D:\BAI TAP\FILE TEST\56_60_bandienthoai\56_60_bandienthoai\obj\Debug\_56_60_bandienthoai.frmNHANVIEN.resources
+D:\BAI TAP\FILE TEST\56_60_bandienthoai\56_60_bandienthoai\obj\Debug\_56_60_bandienthoai.frmHINH.resources
+D:\BAI TAP\FILE TEST\56_60_bandienthoai\56_60_bandienthoai\obj\Debug\_56_60_bandienthoai.frmMAU.resources
+D:\BAI TAP\FILE TEST\56_60_bandienthoai\56_60_bandienthoai\obj\Debug\_56_60_bandienthoai.frmNHACUNGCAP.resources
+D:\BAI TAP\FILE TEST\56_60_bandienthoai\56_60_bandienthoai\obj\Debug\_56_60_bandienthoai.frmSANPHAM.resources
+D:\BAI TAP\FILE TEST\56_60_bandienthoai\56_60_bandienthoai\obj\Debug\_56_60_bandienthoai.frmThongKeNCC.resources
+D:\BAI TAP\FILE TEST\56_60_bandienthoai\56_60_bandienthoai\obj\Debug\_56_60_bandienthoai.frmThongKeSP.resources
+D:\BAI TAP\FILE TEST\56_60_bandienthoai\56_60_bandienthoai\obj\Debug\_56_60_bandienthoai.frmTimHDBan.resources
+D:\BAI TAP\FILE TEST\56_60_bandienthoai\56_60_bandienthoai\obj\Debug\_56_60_bandienthoai.frmTimKiemHDNhap.resources
+D:\BAI TAP\FILE TEST\56_60_bandienthoai\56_60_bandienthoai\obj\Debug\_56_60_bandienthoai.frmTimKiemKhachHang.resources
+D:\BAI TAP\FILE TEST\56_60_bandienthoai\56_60_bandienthoai\obj\Debug\_56_60_bandienthoai.frmTimKiemNCC.resources
+D:\BAI TAP\FILE TEST\56_60_bandienthoai\56_60_bandienthoai\obj\Debug\_56_60_bandienthoai.frmTimKiemNhanVien.resources
+D:\BAI TAP\FILE TEST\56_60_bandienthoai\56_60_bandienthoai\obj\Debug\_56_60_bandienthoai.frmTimKiemSP.resources
+D:\BAI TAP\FILE TEST\56_60_bandienthoai\56_60_bandienthoai\obj\Debug\_56_60_bandienthoai.Properties.Resources.resources
+D:\BAI TAP\FILE TEST\56_60_bandienthoai\56_60_bandienthoai\obj\Debug\56_60_bandienthoai.csproj.GenerateResource.cache
+D:\BAI TAP\FILE TEST\56_60_bandienthoai\56_60_bandienthoai\obj\Debug\56_60_bandienthoai.csproj.CoreCompileInputs.cache
+D:\BAI TAP\FILE TEST\56_60_bandienthoai\56_60_bandienthoai\obj\Debug\56_60_bandienthoai.exe
+D:\BAI TAP\FILE TEST\56_60_bandienthoai\56_60_bandienthoai\obj\Debug\56_60_bandienthoai.pdb
+D:\PhamBinh\HK4\C#\HoDangHuy\56_60_bandienthoai (Mới 5-7)\56_60_bandienthoai\56_60_bandienthoai\bin\Debug\56_60_bandienthoai.exe.config
+D:\PhamBinh\HK4\C#\HoDangHuy\56_60_bandienthoai (Mới 5-7)\56_60_bandienthoai\56_60_bandienthoai\bin\Debug\56_60_bandienthoai.exe
+D:\PhamBinh\HK4\C#\HoDangHuy\56_60_bandienthoai (Mới 5-7)\56_60_bandienthoai\56_60_bandienthoai\bin\Debug\56_60_bandienthoai.pdb
+D:\PhamBinh\HK4\C#\HoDangHuy\56_60_bandienthoai (Mới 5-7)\56_60_bandienthoai\56_60_bandienthoai\obj\Debug\56_60_bandienthoai.csproj.AssemblyReference.cache
+D:\PhamBinh\HK4\C#\HoDangHuy\56_60_bandienthoai (Mới 5-7)\56_60_bandienthoai\56_60_bandienthoai\obj\Debug\56_60_bandienthoai.csproj.SuggestedBindingRedirects.cache
+D:\PhamBinh\HK4\C#\HoDangHuy\56_60_bandienthoai (Mới 5-7)\56_60_bandienthoai\56_60_bandienthoai\obj\Debug\_56_60_bandienthoai.frmHOADONBAN.resources
+D:\PhamBinh\HK4\C#\HoDangHuy\56_60_bandienthoai (Mới 5-7)\56_60_bandienthoai\56_60_bandienthoai\obj\Debug\_56_60_bandienthoai.frmHOADONNHAP.resources
+D:\PhamBinh\HK4\C#\HoDangHuy\56_60_bandienthoai (Mới 5-7)\56_60_bandienthoai\56_60_bandienthoai\obj\Debug\_56_60_bandienthoai.frmKHACHHANG.resources
+D:\PhamBinh\HK4\C#\HoDangHuy\56_60_bandienthoai (Mới 5-7)\56_60_bandienthoai\56_60_bandienthoai\obj\Debug\_56_60_bandienthoai.frmLOAISP.resources
+D:\PhamBinh\HK4\C#\HoDangHuy\56_60_bandienthoai (Mới 5-7)\56_60_bandienthoai\56_60_bandienthoai\obj\Debug\_56_60_bandienthoai.frmLuaChonHDHoacCTHD.resources
+D:\PhamBinh\HK4\C#\HoDangHuy\56_60_bandienthoai (Mới 5-7)\56_60_bandienthoai\56_60_bandienthoai\obj\Debug\_56_60_bandienthoai.frmMenu.resources
+D:\PhamBinh\HK4\C#\HoDangHuy\56_60_bandienthoai (Mới 5-7)\56_60_bandienthoai\56_60_bandienthoai\obj\Debug\_56_60_bandienthoai.frmNHANVIEN.resources
+D:\PhamBinh\HK4\C#\HoDangHuy\56_60_bandienthoai (Mới 5-7)\56_60_bandienthoai\56_60_bandienthoai\obj\Debug\_56_60_bandienthoai.frmHINH.resources
+D:\PhamBinh\HK4\C#\HoDangHuy\56_60_bandienthoai (Mới 5-7)\56_60_bandienthoai\56_60_bandienthoai\obj\Debug\_56_60_bandienthoai.frmMAU.resources
+D:\PhamBinh\HK4\C#\HoDangHuy\56_60_bandienthoai (Mới 5-7)\56_60_bandienthoai\56_60_bandienthoai\obj\Debug\_56_60_bandienthoai.frmNHACUNGCAP.resources
+D:\PhamBinh\HK4\C#\HoDangHuy\56_60_bandienthoai (Mới 5-7)\56_60_bandienthoai\56_60_bandienthoai\obj\Debug\_56_60_bandienthoai.frmSANPHAM.resources
+D:\PhamBinh\HK4\C#\HoDangHuy\56_60_bandienthoai (Mới 5-7)\56_60_bandienthoai\56_60_bandienthoai\obj\Debug\_56_60_bandienthoai.frmThongKeNCC.resources
+D:\PhamBinh\HK4\C#\HoDangHuy\56_60_bandienthoai (Mới 5-7)\56_60_bandienthoai\56_60_bandienthoai\obj\Debug\_56_60_bandienthoai.frmThongKeSP.resources
+D:\PhamBinh\HK4\C#\HoDangHuy\56_60_bandienthoai (Mới 5-7)\56_60_bandienthoai\56_60_bandienthoai\obj\Debug\_56_60_bandienthoai.frmTimHDBan.resources
+D:\PhamBinh\HK4\C#\HoDangHuy\56_60_bandienthoai (Mới 5-7)\56_60_bandienthoai\56_60_bandienthoai\obj\Debug\_56_60_bandienthoai.frmTimKiemHDNhap.resources
+D:\PhamBinh\HK4\C#\HoDangHuy\56_60_bandienthoai (Mới 5-7)\56_60_bandienthoai\56_60_bandienthoai\obj\Debug\_56_60_bandienthoai.frmTimKiemKhachHang.resources
+D:\PhamBinh\HK4\C#\HoDangHuy\56_60_bandienthoai (Mới 5-7)\56_60_bandienthoai\56_60_bandienthoai\obj\Debug\_56_60_bandienthoai.frmTimKiemNCC.resources
+D:\PhamBinh\HK4\C#\HoDangHuy\56_60_bandienthoai (Mới 5-7)\56_60_bandienthoai\56_60_bandienthoai\obj\Debug\_56_60_bandienthoai.frmTimKiemNhanVien.resources
+D:\PhamBinh\HK4\C#\HoDangHuy\56_60_bandienthoai (Mới 5-7)\56_60_bandienthoai\56_60_bandienthoai\obj\Debug\_56_60_bandienthoai.frmTimKiemSP.resources
+D:\PhamBinh\HK4\C#\HoDangHuy\56_60_bandienthoai (Mới 5-7)\56_60_bandienthoai\56_60_bandienthoai\obj\Debug\_56_60_bandienthoai.Properties.Resources.resources
+D:\PhamBinh\HK4\C#\HoDangHuy\56_60_bandienthoai (Mới 5-7)\56_60_bandienthoai\56_60_bandienthoai\obj\Debug\56_60_bandienthoai.csproj.GenerateResource.cache
+D:\PhamBinh\HK4\C#\HoDangHuy\56_60_bandienthoai (Mới 5-7)\56_60_bandienthoai\56_60_bandienthoai\obj\Debug\56_60_bandienthoai.csproj.CoreCompileInputs.cache
+D:\PhamBinh\HK4\C#\HoDangHuy\56_60_bandienthoai (Mới 5-7)\56_60_bandienthoai\56_60_bandienthoai\obj\Debug\56_60_bandienthoai.exe
+D:\PhamBinh\HK4\C#\HoDangHuy\56_60_bandienthoai (Mới 5-7)\56_60_bandienthoai\56_60_bandienthoai\obj\Debug\56_60_bandienthoai.pdb
+D:\PhamBinh\HK4\C#\HoDangHuy\56_60_bandienthoai (Mới 5-7)\56_60_bandienthoai\56_60_bandienthoai\obj\Debug\_56_60_bandienthoai.frmTraHang.resources
+D:\PhamBinh\HK4\C#\HoDangHuy\56_60_bandienthoai (Mới 5-7)\56_60_bandienthoai\56_60_bandienthoai\obj\Debug\_56_60_bandienthoai.frmThongKeHoaDon.resources
+D:\PhamBinh\HK4\C#\HoDangHuy\56_60_bandienthoai (Mới 13-5)\56_60_bandienthoai\56_60_bandienthoai\bin\Debug\56_60_bandienthoai.exe.config
+D:\PhamBinh\HK4\C#\HoDangHuy\56_60_bandienthoai (Mới 13-5)\56_60_bandienthoai\56_60_bandienthoai\bin\Debug\56_60_bandienthoai.exe
+D:\PhamBinh\HK4\C#\HoDangHuy\56_60_bandienthoai (Mới 13-5)\56_60_bandienthoai\56_60_bandienthoai\bin\Debug\56_60_bandienthoai.pdb
+D:\PhamBinh\HK4\C#\HoDangHuy\56_60_bandienthoai (Mới 13-5)\56_60_bandienthoai\56_60_bandienthoai\obj\Debug\56_60_bandienthoai.csproj.AssemblyReference.cache
+D:\PhamBinh\HK4\C#\HoDangHuy\56_60_bandienthoai (Mới 13-5)\56_60_bandienthoai\56_60_bandienthoai\obj\Debug\56_60_bandienthoai.csproj.SuggestedBindingRedirects.cache
+D:\PhamBinh\HK4\C#\HoDangHuy\56_60_bandienthoai (Mới 13-5)\56_60_bandienthoai\56_60_bandienthoai\obj\Debug\_56_60_bandienthoai.frmHOADONBAN.resources
+D:\PhamBinh\HK4\C#\HoDangHuy\56_60_bandienthoai (Mới 13-5)\56_60_bandienthoai\56_60_bandienthoai\obj\Debug\_56_60_bandienthoai.frmHOADONNHAP.resources
+D:\PhamBinh\HK4\C#\HoDangHuy\56_60_bandienthoai (Mới 13-5)\56_60_bandienthoai\56_60_bandienthoai\obj\Debug\_56_60_bandienthoai.frmKHACHHANG.resources
+D:\PhamBinh\HK4\C#\HoDangHuy\56_60_bandienthoai (Mới 13-5)\56_60_bandienthoai\56_60_bandienthoai\obj\Debug\_56_60_bandienthoai.frmLOAISP.resources
+D:\PhamBinh\HK4\C#\HoDangHuy\56_60_bandienthoai (Mới 13-5)\56_60_bandienthoai\56_60_bandienthoai\obj\Debug\_56_60_bandienthoai.frmLuaChonHDHoacCTHD.resources
+D:\PhamBinh\HK4\C#\HoDangHuy\56_60_bandienthoai (Mới 13-5)\56_60_bandienthoai\56_60_bandienthoai\obj\Debug\_56_60_bandienthoai.frmMenu.resources
+D:\PhamBinh\HK4\C#\HoDangHuy\56_60_bandienthoai (Mới 13-5)\56_60_bandienthoai\56_60_bandienthoai\obj\Debug\_56_60_bandienthoai.frmNHANVIEN.resources
+D:\PhamBinh\HK4\C#\HoDangHuy\56_60_bandienthoai (Mới 13-5)\56_60_bandienthoai\56_60_bandienthoai\obj\Debug\_56_60_bandienthoai.frmNHACUNGCAP.resources
+D:\PhamBinh\HK4\C#\HoDangHuy\56_60_bandienthoai (Mới 13-5)\56_60_bandienthoai\56_60_bandienthoai\obj\Debug\_56_60_bandienthoai.frmSANPHAM.resources
+D:\PhamBinh\HK4\C#\HoDangHuy\56_60_bandienthoai (Mới 13-5)\56_60_bandienthoai\56_60_bandienthoai\obj\Debug\_56_60_bandienthoai.frmThongKeHoaDon.resources
+D:\PhamBinh\HK4\C#\HoDangHuy\56_60_bandienthoai (Mới 13-5)\56_60_bandienthoai\56_60_bandienthoai\obj\Debug\_56_60_bandienthoai.frmThongKeNCC.resources
+D:\PhamBinh\HK4\C#\HoDangHuy\56_60_bandienthoai (Mới 13-5)\56_60_bandienthoai\56_60_bandienthoai\obj\Debug\_56_60_bandienthoai.frmThongKeSP.resources
+D:\PhamBinh\HK4\C#\HoDangHuy\56_60_bandienthoai (Mới 13-5)\56_60_bandienthoai\56_60_bandienthoai\obj\Debug\_56_60_bandienthoai.frmTimHDBan.resources
+D:\PhamBinh\HK4\C#\HoDangHuy\56_60_bandienthoai (Mới 13-5)\56_60_bandienthoai\56_60_bandienthoai\obj\Debug\_56_60_bandienthoai.frmTimKiemHDNhap.resources
+D:\PhamBinh\HK4\C#\HoDangHuy\56_60_bandienthoai (Mới 13-5)\56_60_bandienthoai\56_60_bandienthoai\obj\Debug\_56_60_bandienthoai.frmTimKiemKhachHang.resources
+D:\PhamBinh\HK4\C#\HoDangHuy\56_60_bandienthoai (Mới 13-5)\56_60_bandienthoai\56_60_bandienthoai\obj\Debug\_56_60_bandienthoai.frmTimKiemNCC.resources
+D:\PhamBinh\HK4\C#\HoDangHuy\56_60_bandienthoai (Mới 13-5)\56_60_bandienthoai\56_60_bandienthoai\obj\Debug\_56_60_bandienthoai.frmTimKiemNhanVien.resources
+D:\PhamBinh\HK4\C#\HoDangHuy\56_60_bandienthoai (Mới 13-5)\56_60_bandienthoai\56_60_bandienthoai\obj\Debug\_56_60_bandienthoai.frmTimKiemSP.resources
+D:\PhamBinh\HK4\C#\HoDangHuy\56_60_bandienthoai (Mới 13-5)\56_60_bandienthoai\56_60_bandienthoai\obj\Debug\_56_60_bandienthoai.frmTraHang.resources
+D:\PhamBinh\HK4\C#\HoDangHuy\56_60_bandienthoai (Mới 13-5)\56_60_bandienthoai\56_60_bandienthoai\obj\Debug\_56_60_bandienthoai.Properties.Resources.resources
+D:\PhamBinh\HK4\C#\HoDangHuy\56_60_bandienthoai (Mới 13-5)\56_60_bandienthoai\56_60_bandienthoai\obj\Debug\56_60_bandienthoai.csproj.GenerateResource.cache
+D:\PhamBinh\HK4\C#\HoDangHuy\56_60_bandienthoai (Mới 13-5)\56_60_bandienthoai\56_60_bandienthoai\obj\Debug\56_60_bandienthoai.csproj.CoreCompileInputs.cache
+D:\PhamBinh\HK4\C#\HoDangHuy\56_60_bandienthoai (Mới 13-5)\56_60_bandienthoai\56_60_bandienthoai\obj\Debug\56_60_bandienthoai.exe
+D:\PhamBinh\HK4\C#\HoDangHuy\56_60_bandienthoai (Mới 13-5)\56_60_bandienthoai\56_60_bandienthoai\obj\Debug\56_60_bandienthoai.pdb
+D:\BAI TAP\FILE TEST\56_60_bandienthoai (Mới 13-5)\56_60_bandienthoai\56_60_bandienthoai\bin\Debug\56_60_bandienthoai.exe.config
+D:\BAI TAP\FILE TEST\56_60_bandienthoai (Mới 13-5)\56_60_bandienthoai\56_60_bandienthoai\bin\Debug\56_60_bandienthoai.exe
+D:\BAI TAP\FILE TEST\56_60_bandienthoai (Mới 13-5)\56_60_bandienthoai\56_60_bandienthoai\bin\Debug\56_60_bandienthoai.pdb
+D:\BAI TAP\FILE TEST\56_60_bandienthoai (Mới 13-5)\56_60_bandienthoai\56_60_bandienthoai\obj\Debug\56_60_bandienthoai.csproj.AssemblyReference.cache
+D:\BAI TAP\FILE TEST\56_60_bandienthoai (Mới 13-5)\56_60_bandienthoai\56_60_bandienthoai\obj\Debug\56_60_bandienthoai.csproj.SuggestedBindingRedirects.cache
+D:\BAI TAP\FILE TEST\56_60_bandienthoai (Mới 13-5)\56_60_bandienthoai\56_60_bandienthoai\obj\Debug\_56_60_bandienthoai.frmHOADONBAN.resources
+D:\BAI TAP\FILE TEST\56_60_bandienthoai (Mới 13-5)\56_60_bandienthoai\56_60_bandienthoai\obj\Debug\_56_60_bandienthoai.frmHOADONNHAP.resources
+D:\BAI TAP\FILE TEST\56_60_bandienthoai (Mới 13-5)\56_60_bandienthoai\56_60_bandienthoai\obj\Debug\_56_60_bandienthoai.frmKHACHHANG.resources
+D:\BAI TAP\FILE TEST\56_60_bandienthoai (Mới 13-5)\56_60_bandienthoai\56_60_bandienthoai\obj\Debug\_56_60_bandienthoai.frmLOAISP.resources
+D:\BAI TAP\FILE TEST\56_60_bandienthoai (Mới 13-5)\56_60_bandienthoai\56_60_bandienthoai\obj\Debug\_56_60_bandienthoai.frmLuaChonHDHoacCTHD.resources
+D:\BAI TAP\FILE TEST\56_60_bandienthoai (Mới 13-5)\56_60_bandienthoai\56_60_bandienthoai\obj\Debug\_56_60_bandienthoai.frmMenu.resources
+D:\BAI TAP\FILE TEST\56_60_bandienthoai (Mới 13-5)\56_60_bandienthoai\56_60_bandienthoai\obj\Debug\_56_60_bandienthoai.frmNHANVIEN.resources
+D:\BAI TAP\FILE TEST\56_60_bandienthoai (Mới 13-5)\56_60_bandienthoai\56_60_bandienthoai\obj\Debug\_56_60_bandienthoai.frmNHACUNGCAP.resources
+D:\BAI TAP\FILE TEST\56_60_bandienthoai (Mới 13-5)\56_60_bandienthoai\56_60_bandienthoai\obj\Debug\_56_60_bandienthoai.frmSANPHAM.resources
+D:\BAI TAP\FILE TEST\56_60_bandienthoai (Mới 13-5)\56_60_bandienthoai\56_60_bandienthoai\obj\Debug\_56_60_bandienthoai.frmThongKeHoaDon.resources
+D:\BAI TAP\FILE TEST\56_60_bandienthoai (Mới 13-5)\56_60_bandienthoai\56_60_bandienthoai\obj\Debug\_56_60_bandienthoai.frmThongKeNCC.resources
+D:\BAI TAP\FILE TEST\56_60_bandienthoai (Mới 13-5)\56_60_bandienthoai\56_60_bandienthoai\obj\Debug\_56_60_bandienthoai.frmThongKeSP.resources
+D:\BAI TAP\FILE TEST\56_60_bandienthoai (Mới 13-5)\56_60_bandienthoai\56_60_bandienthoai\obj\Debug\_56_60_bandienthoai.frmTimHDBan.resources
+D:\BAI TAP\FILE TEST\56_60_bandienthoai (Mới 13-5)\56_60_bandienthoai\56_60_bandienthoai\obj\Debug\_56_60_bandienthoai.frmTimKiemHDNhap.resources
+D:\BAI TAP\FILE TEST\56_60_bandienthoai (Mới 13-5)\56_60_bandienthoai\56_60_bandienthoai\obj\Debug\_56_60_bandienthoai.frmTimKiemKhachHang.resources
+D:\BAI TAP\FILE TEST\56_60_bandienthoai (Mới 13-5)\56_60_bandienthoai\56_60_bandienthoai\obj\Debug\_56_60_bandienthoai.frmTimKiemNCC.resources
+D:\BAI TAP\FILE TEST\56_60_bandienthoai (Mới 13-5)\56_60_bandienthoai\56_60_bandienthoai\obj\Debug\_56_60_bandienthoai.frmTimKiemNhanVien.resources
+D:\BAI TAP\FILE TEST\56_60_bandienthoai (Mới 13-5)\56_60_bandienthoai\56_60_bandienthoai\obj\Debug\_56_60_bandienthoai.frmTimKiemSP.resources
+D:\BAI TAP\FILE TEST\56_60_bandienthoai (Mới 13-5)\56_60_bandienthoai\56_60_bandienthoai\obj\Debug\_56_60_bandienthoai.frmTraHang.resources
+D:\BAI TAP\FILE TEST\56_60_bandienthoai (Mới 13-5)\56_60_bandienthoai\56_60_bandienthoai\obj\Debug\_56_60_bandienthoai.Properties.Resources.resources
+D:\BAI TAP\FILE TEST\56_60_bandienthoai (Mới 13-5)\56_60_bandienthoai\56_60_bandienthoai\obj\Debug\56_60_bandienthoai.csproj.GenerateResource.cache
+D:\BAI TAP\FILE TEST\56_60_bandienthoai (Mới 13-5)\56_60_bandienthoai\56_60_bandienthoai\obj\Debug\56_60_bandienthoai.csproj.CoreCompileInputs.cache
+D:\BAI TAP\FILE TEST\56_60_bandienthoai (Mới 13-5)\56_60_bandienthoai\56_60_bandienthoai\obj\Debug\56_60_bandienthoai.exe
+D:\BAI TAP\FILE TEST\56_60_bandienthoai (Mới 13-5)\56_60_bandienthoai\56_60_bandienthoai\obj\Debug\56_60_bandienthoai.pdb
